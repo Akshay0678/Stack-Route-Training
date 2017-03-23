@@ -11,6 +11,6 @@ I've uploaded jupyter-notebooks for assignment-1 (Data Munging)
   
   
   links to download the datasets.
-  https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2016/download
-  https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2015/download
-  https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2014/download
+  1. https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2016/download
+  2. https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2015/download
+  3. https://data.gov.in/resources/variety-wise-daily-market-prices-data-tomato-2014/download
